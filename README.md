@@ -70,6 +70,7 @@ The scope of this risk assesment is from the initial inout from a user to the da
 
 ### Screenshot to show database persistence
 
+![Database persistance-screenshot](https://user-images.githubusercontent.com/66129652/160182231-4c497f61-105f-40b1-a23c-a46f7dd74260.png)
 
 
 
